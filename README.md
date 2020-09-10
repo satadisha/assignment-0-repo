@@ -27,11 +27,13 @@ Once you have joined the classroom, the next page prompts you to accept the assi
 ![accept assignment](https://github.com/satadisha/individual-assignment-0/blob/master/accept_assignment.jpg)
 
 ### GitHub Account linked to Roster
-Once you have completed these steps, your name should come up on the Student Roster for our classroom.\
+Once you have completed these steps, your GitHub account should be linked to your identifier on the Student Roster for our classroom.\
 ![student roster](https://github.com/satadisha/individual-assignment-0/blob/master/student_roster.png)
 
 ### Working on your assignment
 The (cloned) submission repository should appear on your GitHub account. You can click on this repository and choose the option to **work on repl.it**.\
 You can click on this to open the repl.it platform and continue coding on their IDE. This will be particularly useful when you collaborate as teams on future assignment.\
-Once you have made the necessary changes, you can use GitHub commands to *commit* these changes to the submission repository.
-Please check the instructions sheets on repl.it and GitHub and familiarize yourself with these portals.
+Once you have made the necessary changes, you can use GitHub commands to *commit* these changes to the submission repository.\
+Please check the 3-step guide on how to save local repositories to remote on GitHub.\\
+
+**Please check the instructions sheets on repl.it and GitHub and familiarize yourself with these portals.**

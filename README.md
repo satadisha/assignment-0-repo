@@ -15,4 +15,4 @@ At this point you should reach this page:\
 Once you sign into repl.it, please accustom yourself to the platform by trying out the Python3 IDE and writing simple codes.
 
 ## Accessing the assignment link
-After setting up your GitHub and repl.it accounts, please use this link shared in the announcement to access the assignment:
+After setting up your GitHub and repl.it accounts, please use this link shared in the announcement to access the assignment. Clicking on the link will prompt you to **accept the assignment**. This basically ensures that a repository cloning the assignment repository is created under your name.

@@ -20,6 +20,7 @@ After setting up your GitHub and repl.it accounts, please use this link shared i
 ### Join Classroom
 Clicking on the link will prompt you to first join the Classroom as a Student. You will be taken to a page that has a list of student identifiers. Each student's identifier is set to the student's full name.\
 ![join classroom](https://github.com/satadisha/individual-assignment-0/blob/master/join_classrom.jpg)
+
 Please select your identifier (name) from this list to join the classroom.
 
 ### Accepting the Assignment

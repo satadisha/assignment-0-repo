@@ -11,4 +11,4 @@ Please go to: https://github.com and sign up for an account using your B-mail id
 Please go to: https://repl.it and click on the **Sign Up** tab.\
 The Sign Up page provides you a variety of Sign Up option each embedded through a logo: Google, GitHub and Facebook. Please click on the GitHub logo to **Sign Up using GitHub**.\
 At this point you should reach this page:\
-![sign up through Git](Screen Shot 2020-09-09 at 10.05.29 PM.png)
+![sign up through Git](https://github.com/satadisha/individual-assignment-0/blob/master/Screen%20Shot%202020-09-09%20at%2010.05.29%20PM.png)
